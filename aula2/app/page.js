@@ -16,8 +16,6 @@ export default function Home( ) {
       <p>Essa é a nossa {aula}ª aula de React!</p>
       <Texto1 />
       <Texto1 />
-
-
       <Texto2 />
     </div>
   );
