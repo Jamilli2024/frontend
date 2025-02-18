@@ -21,3 +21,5 @@ export default function Home( ) {
   );
 }
 
+// import Home, { Texto1} from './page';
+
