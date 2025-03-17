@@ -1,5 +1,5 @@
 function MyButton() {
     return (
-      <button>Clique aqui </button>
+      <button> Jogo de dados </button>
     );
   }
